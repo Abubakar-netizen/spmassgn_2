@@ -1,4 +1,3 @@
-# spmassgn_2
 The Ride Hailing System is a full-stack application designed to simulate real-world ride booking platforms. It allows users to request rides, drivers to accept and complete trips, and admins to manage the overall system efficiently. The project focuses on clean architecture, scalability, and real-time interaction between users and drivers.
 
 🔹 Key Features
